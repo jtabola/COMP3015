@@ -9,7 +9,7 @@ The code for this prototype was developed and tested using **Visual Studio 2022*
 
 ## Link to Unlisted YouTube Video
 
-Video demonstration on YouTube: [Watch Video]()
+Video demonstration on YouTube: [Watch Video](https://youtu.be/z6-JM_nPMWo)
 
 ## How Does It Work?
 
